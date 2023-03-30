@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bg.gif</file>
+        <file>image/bus.png</file>
+        <file>image/dinosaur.png</file>
+        <file>jumping.wav</file>
+        <file>landing.wav</file>
+        <file>image/meat.png</file>
+        <file>image/dinosaur1.png</file>
+        <file>image/dinosaur2.png</file>
+        <file>image/dinosaur3.png</file>
+        <file>image/dinosaur4.png</file>
+        <file>invisibleSfx.wav</file>
+        <file>gameoversound.wav</file>
+    </qresource>
+</RCC>
